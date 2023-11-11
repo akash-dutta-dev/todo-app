@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="http://todo-app.infinityfreeapp.com/">
-    <img src="assets/app.JPG" alt="Logo" width="520" height="512">
+  <a href="http://todo-app-99.infinityfreeapp.com/">
+    <img src="assets/App.JPG" alt="Logo" width="450" height="660">
   </a>
 
   <h1 align="center">Todo App</h1>
@@ -8,7 +8,7 @@
   <p align="center">
     A user-friendly todo app built with Love <3.
     <br />
-    <a href="http://todo-app.infinityfreeapp.com">View Demo</a>
+    <a href="http://todo-app-99.infinityfreeapp.com">View Demo</a>
     ·
     <a href="https://github.com/akash-dutta-dev/todo-app/issues">Report Bug</a>
     ·
@@ -49,13 +49,13 @@
 
 ## Todo App
 
-Todo App is a User-friendly Task Management Application built with Love for Pesto Tech Assignment. [Click to open](http://todo-app.infinityfreeapp.com)
+Todo App is a User-friendly Task Management Application built with Love for Pesto Tech Assignment. [Click to open](http://todo-app-99.infinityfreeapp.com)
 <br><br>
 <img src="assets/form.JPG" alt="Logo">
 
 ## Our Aim
 
-Our aim is to make task management as easy as possible. By providing new features regularly that enhance user experience simultaneously keeping the application lightweight for a smooth experience. There are lots of task management applications out there with lots of features but multiple features sometimes clutter the workspace, causing unproductivity, so our first priority is to keep the app lightweight and minimal to human eye. Meanwhile keeping this entire thing free and open source forever.
+Our aim is to make task management as easy as possible. By providing new features regularly that enhance user experience simultaneously keeping the application lightweight for a smooth experience. There are lots of task management applications out there with many features but multiple features sometimes clutter the workspace, causing unproductivity, so our first priority is to keep the app lightweight and minimal to human eye. Meanwhile keeping this entire thing free and open source forever.
 
 ## Built With
 ### FrontEnd
@@ -78,7 +78,7 @@ Our aim is to make task management as easy as possible. By providing new feature
 # Getting Started
 ## Demo
 To view the working demo -
-Visit - http://todo-app.infinityfreeapp.com
+Visit - http://todo-app-99.infinityfreeapp.com
 <br><br>
 Test Credentials -
 <br>
@@ -101,7 +101,6 @@ cd frontend
 npm install
 npm run dev
 ```
-- Enjoy.
 - The project will start running at ```http://localhost:5173/```
 - Enjoy.
 <br>
@@ -142,7 +141,7 @@ Let me know if you face any errors or issues.
 <!-- CONTRIBUTING -->
 # Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
