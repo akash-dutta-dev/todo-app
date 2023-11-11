@@ -6,7 +6,7 @@
   <h1 align="center">Todo App</h1>
 
   <p align="center">
-    A user-friendly todo app built with Love <3.
+    A user-friendly todo app built with Love for Pesto Assignment<3.
     <br />
     <a href="http://todo-app-99.infinityfreeapp.com">View Demo</a>
     ·
@@ -18,6 +18,7 @@
 <br><br>
 #Note - The demo link might not work. Please clone the repo and follow the instructions.
  <br>     
+      
 <!-- TABLE OF CONTENTS -->
 # Table of content
 <details open="open">
