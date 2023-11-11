@@ -18,12 +18,12 @@
     "frontendUrl": "http://localhost:5173"
   },
   "production": {
-    "username": "todo_afco_user",
-    "password": "6FdAqrBlMWXJcZDbOWiH4NYf8YJKZL9D",
-    "database": "5432",
-    "host": "dpg-cl7jskf6e7vc739tgln0-a",
-    "port": 5432,
-    "dialect": "postgres",
+    "username": "root",
+    "password": "2dHGF5cabH4Fb3AEEeaB64D25a1D6c--",
+    "database": "railway",
+    "host": "viaduct.proxy.rlwy.net",
+    "port": 14529,
+    "dialect": "mysql",
     "backendUrl": "http://localhost:3000",
     "frontendUrl": "http://localhost:5173"
   }
