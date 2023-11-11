@@ -23,7 +23,7 @@
     "database": "5432",
     "host": "dpg-cl7jskf6e7vc739tgln0-a",
     "port": 5432,
-    "dialect": "mysql",
+    "dialect": "postgres",
     "backendUrl": "http://localhost:3000",
     "frontendUrl": "http://localhost:5173"
   }
