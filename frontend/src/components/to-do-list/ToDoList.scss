@@ -1,0 +1,47 @@
+.todoList{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1.3rem;
+    font-family: system-ui;
+}
+.todoListHeader{
+    text-align: center;
+    color: #a6a6a6;
+    /* font-weight: 700; */
+    letter-spacing: 0.2rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.2rem;
+    font-size: x-large;
+    border-bottom: 1px solid #a6aec5;
+}
+.todoListItems{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    margin-bottom: 1.2rem;
+}
+.titleBar{
+    display: flex;
+    justify-content: space-between;
+}
+.todoListItems .title{
+    font-size: x-large;
+}
+.todoListItems .description{
+    font-size: small;
+    color: #8e8e8e;
+    letter-spacing: 0.1rem;
+}
+.status{
+    display: flex;
+    gap: 0.6rem;
+    align-items: center;
+}
+
+.status span {
+    font-size: small;
+    color: #8e8e8e;
+    font-weight: bold;
+    
+}
