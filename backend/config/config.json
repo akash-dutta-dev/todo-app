@@ -11,17 +11,18 @@
   "test": {
     "username": "root",
     "password": null,
-    "database": "database_test",
+    "database": "todo",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "backendUrl": "http://localhost:3000",
     "frontendUrl": "http://localhost:5173"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "todo_afco_user",
+    "password": "6FdAqrBlMWXJcZDbOWiH4NYf8YJKZL9D",
+    "database": "5432",
+    "host": "postgres://todo_afco_user:6FdAqrBlMWXJcZDbOWiH4NYf8YJKZL9D@dpg-cl7jskf6e7vc739tgln0-a/todo_afco",
+    "port": 5432,
     "dialect": "mysql",
     "backendUrl": "http://localhost:3000",
     "frontendUrl": "http://localhost:5173"
