@@ -104,7 +104,9 @@ npm install
 npm run dev
 ```
 - The project will start running at ```http://localhost:5173/```
-- Enjoy.
+- You will be prompted with a login box, you can enter any credentials to sign up. (Example - test@gmail.com, password).
+- For new sign-ups, a few sample tasks will be automatically created.
+- That's it. Enjoy.
 <br>
 
 Let me know if you face any errors or issues.
