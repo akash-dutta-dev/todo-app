@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://todo-app.infinityfreeapp.com/">
-    <img src="assets/App.JPG" alt="Logo" width="250" height="250">
+    <img src="assets/App.JPG" alt="Logo" width="37rem" height="32rem">
   </a>
 
   <h1 align="center">Todo App</h1>
