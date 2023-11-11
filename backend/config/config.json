@@ -21,7 +21,7 @@
     "username": "todo_afco_user",
     "password": "6FdAqrBlMWXJcZDbOWiH4NYf8YJKZL9D",
     "database": "5432",
-    "host": "postgres://todo_afco_user:6FdAqrBlMWXJcZDbOWiH4NYf8YJKZL9D@dpg-cl7jskf6e7vc739tgln0-a/todo_afco",
+    "host": "dpg-cl7jskf6e7vc739tgln0-a",
     "port": 5432,
     "dialect": "mysql",
     "backendUrl": "http://localhost:3000",
