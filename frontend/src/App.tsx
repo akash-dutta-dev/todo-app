@@ -76,6 +76,7 @@ function App() {
           onHide={() => {
             setUserLoggedIn(true);
           }}
+          getAllTodos={getAllTodos}
         />
       )}
 

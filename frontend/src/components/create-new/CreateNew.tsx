@@ -91,7 +91,7 @@ const CreateNew: FC<CreateNewProps> = ({
         .post(
           `${BACKEND_URL}/todo/post`,
           {
-            id: editForm.id,
+            id: editForm.id === "0" ? undefined : editForm.id,
             title: editForm.title,
             description: editForm.description,
           },

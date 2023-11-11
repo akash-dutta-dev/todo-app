@@ -24,11 +24,10 @@ const style = {
 interface LoginProps {
   show: boolean;
   onHide: () => void;
+  getAllTodos: () => void;
 }
 
-const Login: FC<LoginProps> = ({ show, onHide }) => {
-  const handleClose = () => onHide();
-
+const Login: FC<LoginProps> = ({ show, onHide, getAllTodos }) => {
   // State to hold login data
   const [loginData, setLoginData] = React.useState({
     email: "",
@@ -89,6 +88,7 @@ const Login: FC<LoginProps> = ({ show, onHide }) => {
         .post(`${BACKEND_URL}/user/login`, loginData, { withCredentials: true })
         .then(() => {
           onHide();
+          getAllTodos();
         })
         .catch((error) => {
           console.error("Error while logging in:", error);
